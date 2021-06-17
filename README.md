@@ -1,6 +1,12 @@
 # GitHub Account of AHdark
 
-<center><img src="https://cdn.jsdelivr.net/gh/AH-dark/AH-dark/Logo_AHdark-200-1000x1000px.png" size="300x300"/></center>
+<h1 align="center">
+  <br>
+  <a href="https://ahdark.rc0.co/" alt="logo" ><img src="https://cdn.jsdelivr.net/gh/AH-dark/AH-dark/Logo_AHdark-200-1000x1000px.png" width="150"/></a>
+  <br>
+  AHdark
+  <br>
+</h1>
 
 - 👋 Hi, I’m @AH-dark
 - 👀 I’m interested in PHP / ReactJS
