@@ -26,7 +26,7 @@
 
 # Welcome to my blog: <https://www.ahdark.com>
 
-I'm working with [RoundCloud](https://www.roundcloud.cn) now, you can see more of my development content in GitHub account [RoundCloud Technology Co,Ltd.](https://github.com/Roundcloud-CN)
+I worked with [RoundCloud](https://www.roundcloud.cn), so you can see more of my development content in GitHub account [RoundCloud Technology Co,Ltd.](https://github.com/Roundcloud-CN)
 
 #### Github Stats
 [![info](https://github-readme-stats.vercel.app/api?username=ah-dark&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
