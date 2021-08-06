@@ -1,17 +1,1 @@
-/**
- * @name 全自动为MDx主题添加MySSL认证签章
- * @author AHdark
- * @copyright 2021 AHdark Blog
- * @license GPLv3
- */
-document.getElementsByClassName("mdx-clean-footer")[0].insertBefore(document.createElement("ssl"), document.getElementsByClassName("mdx-clean-footer")[0].childNodes[4]);
-var sslElement = document.getElementsByTagName("ssl")[0];
-sslElement.className = "footer-myssl";
-sslElement.style.display = "block";
-sslElement.style.position = "relative";
-sslElement.style.float = "right";
-sslElement.innerHTML = '<div mdui-tooltip="{content: \'MySSL 安全签章\', position: \'top\'}" id="myssl_seal" onclick="myssl_open()"><img src="https://sealres.myssl.com/seal/img/1x/seal.svg?domain=' + location.hostname + '" alt="MySSL 安全签章"></div>';
-sslElement.childNodes[0].childNodes[0].style.width = "100px";
-sslElement.childNodes[0].childNodes[0].style.height = "auto";
-sslElement.childNodes[0].childNodes[0].style.cursor = "default";
-const myssl_open = (() => window.open('https://myssl.com/seal/detail?domain=' + location.hostname, 'MySSL安全签章', 'height=800,width=470,top=0,right=0,toolbar=no,menubar=no,scrollbars=no,resizable=no,location=no,status=no'));
+eval(function (p, a, c, k, e, r) { e = function (c) { return (c < a ? '' : e(parseInt(c / a))) + ((c = c % a) > 35 ? String.fromCharCode(c + 29) : c.toString(36)) }; if (!''.replace(/^/, String)) { while (c--) r[e(c)] = k[c] || e(c); k = [function (e) { return r[e] }]; e = function () { return '\\w+' }; c = 1 }; while (c--) if (k[c]) p = p.replace(new RegExp('\\b' + e(c) + '\\b', 'g'), k[c]); return p }('6.c("d-e-7")[0].s(6.t("f"),6.c("d-e-7")[0].2[4]);u 1=6.v("f")[0];1.w="7-8";1.3.x="y";1.3.g="z";1.3.A="h";1.B=\'<i C-D="{E: \\\'9 安全签章\\\', g: \\\'j\\\'}" F="G" H="k()"><l I="m://J.8.n/a/l/K/a.L?o=\'+b.p+\'" M="9 安全签章"></i>\';1.2[0].2[0].3.q="N";1.2[0].2[0].3.r="O";1.2[0].2[0].3.P="Q";R k=(()=>S.T(\'m://8.n/a/U?o=\'+b.p,\'9安全签章\',\'r=V,q=W,j=0,h=0,X=5,Y=5,Z=5,10=5,b=5,11=5\'));', 62, 64, '|sslElement|childNodes|style||no|document|footer|myssl|MySSL|seal|location|getElementsByClassName|mdx|clean|ssl|position|right|div|top|myssl_open|img|https|com|domain|hostname|width|height|insertBefore|createElement|var|getElementsByTagName|className|display|block|relative|float|innerHTML|mdui|tooltip|content|id|myssl_seal|onclick|src|sealres|1x|svg|alt|100px|auto|cursor|default|const|window|open|detail|800|470|toolbar|menubar|scrollbars|resizable|status'.split('|'), 0, {}))
