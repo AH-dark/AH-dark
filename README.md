@@ -23,6 +23,7 @@
   ![Material-UI](https://img.shields.io/badge/MaterialUI-blue?style=for-the-badge&logoColor=FFFFFF&logo=materialui&color=0081CB)
   ![Laravel](https://img.shields.io/badge/Laravel-blue?style=for-the-badge&logoColor=FFFFFF&logo=laravel&color=FF2D20)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-blue?style=for-the-badge&logoColor=FFFFFF&logo=tensorflow&color=FF6F00)
+  ![WordPress](https://img.shields.io/badge/WordPress-blue?style=for-the-badge&logoColor=FFFFFF&logo=wordpress&color=21759B)
   
 </h1>
 
