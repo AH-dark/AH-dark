@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://www.ahdark.com/" alt="logo" ><img src="https://cdn.jsdelivr.net/gh/AH-dark/AH-dark/Logo_AHdark-200-1000x1000px.png" width="150"/></a>
+  <a href="https://ahdark.com/" alt="logo" ><img src="https://cdn.jsdelivr.net/gh/AH-dark/AH-dark/Logo_AHdark-200-1000x1000px.png" width="150"/></a>
   <br><br>
   GitHub Account of AHdark
   <br><br>
@@ -28,7 +28,7 @@
 </h1>
 
 <p>
-  <a href="https://www.ahdark.com" target="_blank">
+  <a href="https://ahdark.com" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-%231D7EA7.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />
   </a> 
   <a href="https://github.com/AH-dark" target="_blank">
