@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://ahdark.com/" alt="logo" ><img src="https://cdn.jsdelivr.net/gh/AH-dark/AH-dark/Logo_AHdark-200-1000x1000px.png" width="150"/></a>
+  <a href="https://ahdark.com/" alt="logo" ><img src="https://cdn.jsdelivr.net/gh/AH-dark/AH-dark/Logo_AHdark-200-1000x1000px.png" width="150" /></a>
   <br><br>
   GitHub Account of AHdark
   <br><br>
@@ -36,18 +36,25 @@
   </a> 
 </p>
 
-- 👋 Hi, I’m @AH-dark
-- 👀 I’m interested in PHP / ReactJS
-- 🌱 I’m currently learning C++ / C Sharp / Python3 / CSS / JavaScript / Html 5 / Mysql / Nginx Multi Machine Load Balancing / Website Security / Software Development / Hardware Maintenance
-- 💞️ I’m looking to collaborate on [React](https://github.com/facebook/react) / [material-ui](https://github.com/mui-org/material-ui) / [Cloudreve](https://github.com/cloudreve/Cloudreve)
+# Me
+
+- 👋 Hi, I’m [@AH-dark](https://github.com/AH-dark)
+- 👀 I’m interested in **PHP** / **React** / **TypeScript** (Last year I mainly studied C++, but this year I want to try to learn PHP.)
+- 🌱 I’m currently learning **C++** / **C Sharp** / **Python3** / **CSS** / **JavaScript** / **TypeScript JSX** / **Html 5** / **Nginx SLB** / **Hardware Maintenance**
+- 💞️ I’m looking to collaborate on [**React**](https://github.com/facebook/react) / [**material-ui**](https://github.com/mui-org/material-ui) / [**Cloudreve**](https://github.com/cloudreve/Cloudreve) / [**MDx**](https://github.com/yrccondor/mdx)
 - 📫 How to reach me : <https://www.ahdark.com/contact>
 
+# Blog
 
-# Welcome to my blog: <https://www.ahdark.com>
+**Welcome to my blog: <https://www.ahdark.com>**
+
+# Work
 
 I worked with [RoundCloud](https://www.roundcloud.cn), so you can see more of my development content in GitHub account [RoundCloud Technology Co,Ltd.](https://github.com/Roundcloud-CN)
 
 Now I'm working with [Ungine Times Tech.](https://www.ungine.cn), served as Chief Architecture Officer, but not currently holding shares. Our GitHub organization account is [Ungine Times Technology Co., Ltd.](https://github.com/Ungine-Tech)
+
+# Stats
 
 #### Github Stats
 [![info](https://github-readme-stats.vercel.app/api?username=ah-dark&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
@@ -55,6 +62,7 @@ Now I'm working with [Ungine Times Tech.](https://www.ungine.cn), served as Chie
 #### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ah-dark&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Personal Service
+# Personal Service
 
-- Accelerated sites for GoogleFonts, Gravatar and other services: <https://sdn.ahdark.com>
+- Accelerated sites for GoogleFonts, Gravatar and other services: <https://sdn.ahdark.com>. It can provide acceleration for visits in mainland of China.
+- Globally accelerated image bed service: <https://www.alphapic.org.cn>. It can store and share pictures, and the picture storage bucket has been connected to the global acceleration system.
