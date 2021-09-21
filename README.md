@@ -36,6 +36,10 @@
   </a> 
 </p>
 
+<a href="https://qm.qq.com/cgi-bin/qm/qr?k=cgTCwZMYnfwjcLTUx9DOn_pxiasVseTJ&jump_from=webapi" target="_blank">
+    加入QQ群交流更多技术！
+</a>
+
 # Me
 
 - 👋 Hi, I’m [@AH-dark](https://github.com/AH-dark)
