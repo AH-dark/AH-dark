@@ -50,7 +50,7 @@
 
 # Blog
 
-**Welcome to my blog: <https://www.ahdark.com>**
+**Welcome to my blog: <https://ahdark.com>**
 
 # Work
 
