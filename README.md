@@ -34,11 +34,10 @@
   <a href="https://github.com/AH-dark" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a> 
+  <a href="https://qm.qq.com/cgi-bin/qm/qr?k=cgTCwZMYnfwjcLTUx9DOn_pxiasVseTJ&jump_from=webapi" target="_blank">
+    <img alt="QQ Group" src="https://img.shields.io/badge/QQ Group-%23EB1923.svg?&style=for-the-badge&logo=Tencent%20QQ&logoColor=FFFFFF" />
+  </a> 
 </p>
-
-<a href="https://qm.qq.com/cgi-bin/qm/qr?k=cgTCwZMYnfwjcLTUx9DOn_pxiasVseTJ&jump_from=webapi" target="_blank">
-    加入QQ群交流更多技术！
-</a>
 
 # Me
 
@@ -70,3 +69,4 @@ Now I'm working with [Ungine Times Tech.](https://www.ungine.cn), served as Chie
 
 - Accelerated sites for GoogleFonts, Gravatar and other services: <https://sdn.ahdark.com>. It can provide acceleration for visits in mainland of China.
 - Globally accelerated image bed service: <https://www.alphapic.org.cn>. It can store and share pictures, and the picture storage bucket has been connected to the global acceleration system.
+- A static acceleration service launched by AHdark: <https://ahdark.com/source/>. It can accelerate some exquisite Typecho, WordPress themes or plugins and some well-known general packages.
