@@ -41,11 +41,11 @@
 
 # Me
 
-- 👋 Hi, I’m [@AH-dark](https://github.com/AH-dark)
+- 👋 Hi, I’m [@AH-dark](https://ahdark.com)
 - 👀 I’m interested in **PHP** / **React** / **TypeScript** (Last year I mainly studied C++, but this year I want to try to learn PHP.)
-- 🌱 I’m currently learning **C++** / **C Sharp** / **Python3** / **CSS** / **JavaScript** / **TypeScript JSX** / **Html 5** / **Nginx SLB** / **Hardware Maintenance**
-- 💞️ I’m looking to collaborate on [**React**](https://github.com/facebook/react) / [**material-ui**](https://github.com/mui-org/material-ui) / [**Cloudreve**](https://github.com/cloudreve/Cloudreve) / [**MDx**](https://github.com/yrccondor/mdx)
-- 📫 How to reach me : <https://www.ahdark.com/contact>
+- 🌱 I’m currently learning **C++** / **C Sharp** / **Python3** / **CSS** / **JavaScript** / **TypeScript** / **PHP** / **Golang**
+- 💞️ I’m looking to collaborate on [**React**](https://github.com/facebook/react) / [**WordPress**](https://github.com/WordPress/WordPress/)
+- 📫 How to reach me : <https://ahdark.com/contact>
 
 # Blog
 
@@ -53,9 +53,10 @@
 
 # Work
 
-I worked with [RoundCloud](https://www.roundcloud.cn), so you can see more of my development content in GitHub account [RoundCloud Technology Co,Ltd.](https://github.com/Roundcloud-CN)
+I was working with [RoundCloud](https://www.roundcloud.cn), so you could see more of my development in [@RoundCloud Technology Co,Ltd.](https://github.com/Roundcloud-CN)
 
-Now I'm working with [Ungine Times Tech.](https://www.ungine.cn), served as Chief Architecture Officer, but not currently holding shares. Our GitHub organization account is [Ungine Times Technology Co., Ltd.](https://github.com/Ungine-Tech)
+Now I'm working with [Ungine Times Tech.](https://www.ungine.cn), served as Chief Architecture Officer, but not currently holding shares. 
+Our GitHub organization account is [@Ungine Times Technology Co., Ltd.](https://github.com/Ungine-Tech)
 
 # Stats
 
@@ -67,6 +68,6 @@ Now I'm working with [Ungine Times Tech.](https://www.ungine.cn), served as Chie
 
 # Personal Service
 
-- Accelerated sites for GoogleFonts, Gravatar and other services: <https://sdn.ahdark.com>. It can provide acceleration for visits in mainland of China.
-- Globally accelerated image bed service: <https://www.alphapic.org.cn>. It can store and share pictures, and the picture storage bucket has been connected to the global acceleration system.
 - A static acceleration service launched by AHdark: <https://ahdark.com/source/>. It can accelerate some exquisite Typecho, WordPress themes or plugins and some well-known general packages.
+- Globally accelerated image bed service: <https://www.alphapic.org.cn>. It can store and share pictures, and the picture storage bucket has been connected to the global acceleration system.
+- Accelerated sites for GoogleFonts, Gravatar and other services: <https://sdn.ahdark.com>. It can provide acceleration for visits in mainland of China.
