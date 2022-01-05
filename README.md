@@ -47,7 +47,7 @@
 - 💞️ I’m looking to collaborate on [**React**](https://github.com/facebook/react) / [**WordPress**](https://github.com/WordPress/WordPress/)
 - 📫 How to reach me : <https://ahdark.com/contact>
 
-I'm very grateful to [Yui](https://github.com/topjohncian) for helping me in React and TypeScript, which gives me ability to develop the front-end by the React technology.
+I'm very grateful to [@Yui](https://github.com/topjohncian) for helping me in React and TypeScript, which gives me ability to develop the front-end by the React technology.
 
 # Blog
 
