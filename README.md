@@ -8,11 +8,14 @@
 
 <p>
   <a href="https://ahdark.com" target="_blank">
-    <img alt="Blog" src="https://img.shields.io/badge/Blog-%231D7EA7.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-ahdark.com-%231D7EA7.svg?logo=wordpress&logoColor=white" />
   </a> 
   <a href="https://github.com/AH-dark" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-AHdark-%2312100E.svg?logo=Github&logoColor=white" />
   </a> 
+  <a href="https://wakatime.com/@81977bc9-5534-44bf-89f9-d1a4cd76fc29">
+    <img src="https://wakatime.com/badge/user/81977bc9-5534-44bf-89f9-d1a4cd76fc29.svg" alt="Total time coded since Dec 31 2021" />
+  </a>
 </p>
 
 # Me
