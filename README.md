@@ -24,8 +24,8 @@
 
 - 👋 Hi, I’m [@AH-dark](https://ahdark.com)
 - 👀 I’m interested in **PHP** / **React** / **TypeScript** (Last year I mainly studied C++, but this year I want to try to learn PHP.)
-- 🌱 I’m currently learning **C++** / **C Sharp** / **Python3** / **CSS** / **JavaScript** / **TypeScript** / **PHP** / **Golang**
-- 💞️ I’m looking to collaborate on [**React**](https://github.com/facebook/react) / [**WordPress**](https://github.com/WordPress/WordPress/)
+- 🌱 I’m currently learning **C++** / **C Sharp** / **Python3** / **CSS** / **TypeScript** / **PHP** / **Golang** / **Java**
+- 💞️ I’m looking to collaborate on [**React**](https://github.com/facebook/react)
 - 📫 How to reach me : <https://ahdark.com/contact>
 
 I'm very grateful to [@Yui](https://github.com/topjohncian) for helping me in React and TypeScript, which gives me ability to develop the front-end by the React technology.
@@ -41,7 +41,7 @@ I'm very grateful to [@Yui](https://github.com/topjohncian) for helping me in Re
 
 # Work
 
-I was working with [RoundCloud](https://www.roundcloud.cn), so you could see more of my development in [@RoundCloud Technology Co,Ltd.](https://github.com/Roundcloud-CN)
+I was working with RoundCloud.
 
 Now I'm working with [Ungine Times Tech.](https://www.ungine.cn), served as Chief Architecture Officer, but not currently holding shares. 
 Our GitHub organization account is [@Ungine Times Technology Co., Ltd.](https://github.com/Ungine-Tech)
