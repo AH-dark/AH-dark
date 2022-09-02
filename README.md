@@ -1,9 +1,6 @@
 <h1 align="center">
-  <br>
-  <a href="https://ahdark.com/" alt="logo" ><img src="https://cdn.jsdelivr.net/gh/AH-dark/AH-dark/Logo_AHdark-200-1000x1000px.png" width="150" /></a>
-  <br><br>
   GitHub Account of AHdark
-  <br><br>
+  <br>
 </h1>
 
 <p>
