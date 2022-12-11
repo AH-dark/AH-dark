@@ -51,7 +51,8 @@ Also, I am the main maintainer and investor of the [AlphaPic](https://alpha.sour
 [![info](https://github-readme-stats.vercel.app/api?username=ah-dark&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Code Stats
-[![codes](https://api.githubtrends.io/user/svg/AH-dark/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://api.githubtrends.io/user/svg/AH-dark/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)
+[![codes](https://api.githubtrends.io/user/svg/AH-dark/langs?time_range=one_year&include_private=True&theme=classic)](https://api.githubtrends.io/user/svg/AH-dark/langs?time_range=one_year&include_private=True&theme=classic)
+[![repositorys](https://api.githubtrends.io/user/svg/AH-dark/repos?time_range=one_year&include_private=True&theme=classic)](https://api.githubtrends.io/user/svg/AH-dark/repos?time_range=one_year&include_private=True&theme=classic)
 
 #### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ah-dark&layout=compact&langs_count=8&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
