@@ -20,8 +20,8 @@
 ## Introduce
 
 - 👋 Hi, I’m [@AH-dark](https://ahdark.com)
-- 👀 I’m interested in **PHP** / **React** / **TypeScript** (Last year I mainly studied C++, but this year I want to try to learn PHP.)
-- 🌱 I’m currently learning **C++** / **C Sharp** / **Python3** / **CSS** / **TypeScript** / **PHP** / **Golang** / **Java**
+- 👀 I’m interested in **Go** / **React** / **TypeScript**
+- 🌱 I’m currently learning **C++** / **C Sharp** / **Python3** / **CSS** / **TypeScript** / **Kotlin**
 - 💞️ I’m looking to collaborate on [**React**](https://github.com/facebook/react)
 - 📫 How to reach me : <https://ahdark.com/contact>
 
