@@ -4,7 +4,7 @@
 </h1>
 
 <p>
-  <a href="https://ahdark.com" target="_blank">
+  <a href="https://ahdark.blog" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-ahdark.com-%231D7EA7.svg?logo=wordpress&logoColor=white" />
   </a> 
   <a href="https://github.com/AH-dark" target="_blank">
@@ -19,11 +19,11 @@
 
 ## Introduce
 
-- 👋 Hi, I’m [@AH-dark](https://ahdark.com)
+- 👋 Hi, I’m [@AH-dark](https://ahdark.blog/about)
 - 👀 I’m interested in **Go** / **React** / **TypeScript**
 - 🌱 I’m currently learning **C++** / **C Sharp** / **Python3** / **CSS** / **TypeScript** / **Kotlin**
 - 💞️ I’m looking to collaborate on [**React**](https://github.com/facebook/react)
-- 📫 How to reach me : <https://ahdark.com/contact>
+- 📫 How to reach me : <https://ahdark.blog/contact>
 
 I'm very grateful to [@Yui](https://github.com/topjohncian) for helping me in React and TypeScript, which gives me ability to develop the front-end by the React technology.
 
@@ -34,7 +34,7 @@ I'm very grateful to [@Yui](https://github.com/topjohncian) for helping me in Re
 
 # Blog
 
-**Welcome to my blog: <https://ahdark.com>**
+**Welcome to my blog: <https://ahdark.blog>**
 
 # Work
 
