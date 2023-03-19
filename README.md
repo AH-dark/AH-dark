@@ -40,10 +40,12 @@ I'm very grateful to [@Yui](https://github.com/topjohncian) for helping me in Re
 
 I was working with RoundCloud.
 
-Now I'm working with [Ungine Times Tech.](https://www.ungine.cn), served as Chief Architecture Officer, but not currently holding shares. 
-Our GitHub organization account is [@Ungine Times Technology Co., Ltd.](https://github.com/Ungine-Tech)
+I have worked with [Ungine Times Tech.](https://www.ungine.cn) since 2021, served as Chief Architecture Officer. 
+Our GitHub organization account is [@Ungine-Tech](https://github.com/Ungine-Tech)
 
 Also, I am the main maintainer and investor of the [AlphaPic](https://alpha.sourcegcdn.com) image hosting service and [Source Global CDN](https://www.sourcegcdn.com) projects, and I am committed to contributing to open source projects and development.
+
+Now I'm working with Scalar Investment Corp., served as Technical Injector.
 
 # Stats
 
