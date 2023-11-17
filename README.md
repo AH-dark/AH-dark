@@ -15,11 +15,6 @@
 
 > I'm very grateful to [@Yui](https://github.com/topjohncian) for helping me in React and TypeScript, which gives me ability to develop the front-end by the React technology.
 
-### Services
-
-- Globally accelerated image bed service: [AlphaPic](https://alpha.sourcegcdn.com). It can store and share pictures, and the picture storage bucket has been connected to the global acceleration system. Also, it is **free**.
-- [Source Global CDN](https://www.sourcegcdn.com) is a **free** service that accelerates projects hosted on GitHub, WordPress.org, npm, and cdnjs, as well as Gravatar and other projects which will promote the development of Open Source.
-
 ## Blog
 
 **Welcome to my blog: [AHdark Blog](https://ahdark.blog)**
@@ -32,17 +27,9 @@ As a strong advocate of cloud-native architecture, I always choose large cloud s
 
 In the near future, I plan to migrate the blog to Hugo and create the frontend pages myself.
 
-## Work
-
-1. I worked with RoundCloud from July 2020 to August 2021.
-2. Since September 2021, I have been working as the Chief Architecture Officer at Ungine Times Tech.
-3. Since August 2022, I have been working as the Technical Director at Scalar Investment Corp.
-
 ## Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ah-dark&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ah-dark&layout=compact&langs_count=8&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Trends](https://api.githubtrends.io/user/svg/AH-dark/langs?time_range=one_year&include_private=True&theme=classic)](https://api.githubtrends.io/user/svg/AH-dark/langs?time_range=one_year&include_private=True&theme=classic)
 [![Repositories](https://api.githubtrends.io/user/svg/AH-dark/repos?time_range=one_year&include_private=True&theme=classic)](https://api.githubtrends.io/user/svg/AH-dark/repos?time_range=one_year&include_private=True&theme=classic)
