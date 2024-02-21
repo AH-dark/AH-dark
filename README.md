@@ -14,4 +14,4 @@ I am currently trying to learn how to maintain and develop cluster architecture 
 I use the infrastructure provided by Google Cloud Platform to set up and integrate cloud-native applications into the cluster. 
 As a strong advocate of cloud-native architecture, I always choose large cloud service providers, even if they are more expensive.
 
-In the near future, I plan to migrate the blog to Hugo and create the frontend pages myself.
+I'm working on learning Rust.
