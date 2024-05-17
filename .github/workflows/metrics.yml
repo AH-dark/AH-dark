@@ -48,5 +48,6 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_user: AHdark
           plugin_wakatime_days: 7
