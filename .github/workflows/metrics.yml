@@ -61,13 +61,6 @@ jobs:
           plugin_followup_archived: yes
           plugin_followup_indepth: yes
           plugin_followup_sections: repositories
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_from: 800
-          plugin_habits_languages_limit: 5
-          plugin_habits_languages_threshold: 0%
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
